@@ -1,5 +1,5 @@
 - Hi, I’m @Robertson-Brian 
-- 👀 I’m interested in ... Java, C++, VR, 3D pringing, RaspberryPi/Robotics  
+- 👀 I’m interested in ... Java, C++, VR, 3D printing, RaspberryPi/Robotics  
 - 💞️ I’m looking to collaborate on ... (Not Sure)
 - 📫 How to reach me ... https://www.linkedin.com/in/brian-robertson-18061736/
 
